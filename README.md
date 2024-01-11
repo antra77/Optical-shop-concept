@@ -20,7 +20,7 @@ The Optical Shop Website provides a platform for users to browse and learn about
 
 ## Demo
 
-Explore the live demo of the Optical Shop Website: [Live Demo](https://your-demo-url.com)
+Explore the live demo of the Optical Shop Website: [Live Demo](https://antra77.github.io/Optical-shop-concept/)
 
 ## Features
 
